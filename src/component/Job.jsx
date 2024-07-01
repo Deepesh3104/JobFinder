@@ -19,7 +19,7 @@ const Job = () => {
     const currentJobs = companies.slice(indexOfFirstJob, indexOfLastJob);
     if (currentJobs.length == 0) {
       alert("No more job founds", page - 1);
-      setPage((prevPage) => (prevPage > 1 ? prevPage - 1 : 1));
+      setPage(1);
     } else {
       setPage(page + 1);
     }
@@ -38,11 +38,15 @@ const Job = () => {
         />
       </div>
       <div className="flex items-center justify-center mb-4">
-        <FaLongArrowAltLeft onClick={decrease} values={page} />
+        <FaLongArrowAltLeft
+          onClick={decrease}
+          values={page}
+          className="cursor-pointer"
+        />
         <h1 className="mx-2 font-semibold">
           Page <span className="text-blue-600">{page}</span>
         </h1>
-        <FaLongArrowAltRight onClick={increase} />
+        <FaLongArrowAltRight onClick={increase} className="cursor-pointer" />
       </div>
     </div>
   );
