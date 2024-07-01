@@ -6,7 +6,7 @@ const companies = [
     type: "Full-time",
     salary: "60-90k",
     datePosted: "2023-10-28",
-    description: `Welcome to accenture.com! In order to provide a more relevant experience for you, we use cookies to enable some website functionality. Cookies help us see which articles most interest you; allow you to easily share articles on social media; permit us to deliver content, jobs and ads tailored to your interests and locations; and provide many other site benefits. For more information, please review our `,
+    description: `Welcome to Linear Company! We are a leading technology firm specializing in software development. Our team is dedicated to delivering innovative solutions that drive business success. Join us in Brusia and be part of our dynamic environment where your skills and ideas make a difference.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/1.jpg",
   },
   {
@@ -16,7 +16,7 @@ const companies = [
     type: "Full-time",
     salary: "50-80k",
     datePosted: "2023-09-15",
-    description: `We use cookies to provide a better experience on our website.`,
+    description: `Tech Solutions is committed to excellence in software development. As a Junior Developer, you will work in a collaborative environment to create impactful solutions for our clients in Zandria. Join our team and grow your career with us.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/2.jpg",
   },
   {
@@ -26,7 +26,7 @@ const companies = [
     type: "Full-time",
     salary: "80-120k",
     datePosted: "2023-08-20",
-    description: `We use cookies to personalize content and ads.`,
+    description: `At Innovatech, we push the boundaries of technology. Join our team of Senior Developers in Netherland and contribute to cutting-edge projects that shape the future. With competitive compensation and a stimulating work environment, Innovatech is where innovation meets excellence.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/3.jpg",
   },
   {
@@ -36,7 +36,7 @@ const companies = [
     type: "Full-time",
     salary: "70-110k",
     datePosted: "2023-07-05",
-    description: `Cookies help us analyze traffic and improve our services.`,
+    description: `Future Systems is seeking a talented Project Manager to lead our initiatives in Arboria. As part of our team, you will oversee project lifecycles, ensuring timely delivery and client satisfaction. Join us and drive success with Future Systems.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
@@ -46,7 +46,7 @@ const companies = [
     type: "Full-time",
     salary: "65-95k",
     datePosted: "2023-06-12",
-    description: `Our site uses cookies to enhance user experience.`,
+    description: `Data Corp is dedicated to data-driven insights. Join our team of Data Analysts in Quixonia and analyze complex datasets to unlock valuable business insights. With Data Corp, your analytical skills drive impactful decisions.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -56,7 +56,7 @@ const companies = [
     type: "Full-time",
     salary: "60-100k",
     datePosted: "2023-05-22",
-    description: `We use cookies to support site functionality.`,
+    description: `Net Solutions is looking for a skilled System Administrator to maintain our network infrastructure in Atlantis. Join our team and ensure our systems operate efficiently to support our global operations.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/6.jpg",
   },
   {
@@ -66,7 +66,7 @@ const companies = [
     type: "Full-time",
     salary: "55-85k",
     datePosted: "2023-04-30",
-    description: `Cookies enable us to provide better service.`,
+    description: `Creative Minds values creativity and user-centric design. As a UX/UI Designer in Rivendell, you will craft intuitive interfaces that enhance user experience across digital platforms. Join our team and unleash your creative potential.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/7.jpg",
   },
   {
@@ -76,7 +76,7 @@ const companies = [
     type: "Full-time",
     salary: "50-75k",
     datePosted: "2023-04-10",
-    description: `Our website uses cookies for analytics and ads.`,
+    description: `Quality Assurance Inc. is committed to delivering superior quality. Join our team in Gondor and ensure our products meet the highest standards of excellence through rigorous testing and quality assurance processes.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/8.jpg",
   },
   {
@@ -86,7 +86,7 @@ const companies = [
     type: "Full-time",
     salary: "45-70k",
     datePosted: "2023-03-18",
-    description: `We use cookies to understand how you use our site.`,
+    description: `Tech Support Co. provides essential technical assistance. As part of our team in Elantris, you will resolve customer issues and ensure smooth operation of our products and services. Join us and make a difference with Tech Support Co.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/9.jpg",
   },
   {
@@ -96,7 +96,7 @@ const companies = [
     type: "Full-time",
     salary: "70-100k",
     datePosted: "2023-02-25",
-    description: `Cookies help us improve user experience.`,
+    description: `Binary Solutions is dedicated to advanced software development. Join our team in Narnia and work on complex projects that push technological boundaries. With Binary Solutions, your expertise drives innovation and growth.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/10.jpg",
   },
   {
@@ -106,7 +106,7 @@ const companies = [
     type: "Full-time",
     salary: "50-80k",
     datePosted: "2023-01-30",
-    description: `We use cookies to enhance functionality.`,
+    description: `Prime Tech fosters talent in software development. Join our team in Brusia as a Junior Developer and gain hands-on experience in building impactful solutions. With Prime Tech, your career journey begins with innovation and growth.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/11.jpg",
   },
   {
@@ -116,7 +116,7 @@ const companies = [
     type: "Full-time",
     salary: "80-120k",
     datePosted: "2022-12-15",
-    description: `Cookies help us improve our website.`,
+    description: `Digital Pioneers leads the way in software development. As a Senior Developer in Zandria, you will spearhead projects that transform industries. Join Digital Pioneers and drive innovation with cutting-edge technologies.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/12.jpg",
   },
   {
@@ -126,7 +126,7 @@ const companies = [
     type: "Full-time",
     salary: "70-110k",
     datePosted: "2022-11-22",
-    description: `Our site uses cookies for better service.`,
+    description: `NextGen Systems delivers visionary projects. Join our team in Netherland as a Project Manager and oversee initiatives that redefine success. With NextGen Systems, your leadership shapes the future of technology.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/13.jpg",
   },
   {
@@ -136,7 +136,7 @@ const companies = [
     type: "Full-time",
     salary: "65-95k",
     datePosted: "2022-10-10",
-    description: `We use cookies to analyze site traffic.`,
+    description: `Insight Analytics transforms data into actionable insights. Join our team in Arboria as a Data Analyst and uncover strategic opportunities through data-driven analysis. With Insight Analytics, your insights drive informed decisions.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/14.jpg",
   },
   {
@@ -146,7 +146,7 @@ const companies = [
     type: "Full-time",
     salary: "60-100k",
     datePosted: "2022-09-18",
-    description: `Cookies help us deliver better content.`,
+    description: `Network Solutions ensures seamless operations. Join our team in Quixonia as a System Administrator and maintain robust network infrastructure. With Network Solutions, your expertise keeps us connected and secure.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/15.jpg",
   },
   {
@@ -156,7 +156,7 @@ const companies = [
     type: "Full-time",
     salary: "55-85k",
     datePosted: "2022-08-05",
-    description: `We use cookies to provide personalized ads.`,
+    description: `Design Masters crafts exceptional user experiences. Join our team in Atlantis as a UX/UI Designer and shape intuitive interfaces that captivate users. With Design Masters, your creativity sets new standards in digital design.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/16.jpg",
   },
   {
@@ -166,7 +166,7 @@ const companies = [
     type: "Full-time",
     salary: "50-75k",
     datePosted: "2022-07-12",
-    description: `Cookies help us measure ad performance.`,
+    description: `QA Experts ensures superior quality standards. Join our team in Rivendell as a Quality Assurance specialist and uphold excellence through meticulous testing. With QA Experts, your precision ensures flawless products.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/17.jpg",
   },
   {
@@ -176,7 +176,7 @@ const companies = [
     type: "Full-time",
     salary: "45-70k",
     datePosted: "2022-06-28",
-    description: `We use cookies to track site performance.`,
+    description: `Support Solutions provides essential technical assistance. Join our team in Gondor and deliver prompt support to enhance user experience. With Support Solutions, your dedication keeps our services running smoothly.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/18.jpg",
   },
   {
@@ -186,7 +186,7 @@ const companies = [
     type: "Full-time",
     salary: "70-100k",
     datePosted: "2022-05-22",
-    description: `Cookies help us understand user behavior.`,
+    description: `Advanced Tech drives innovation in software development. Join our team in Elantris and tackle complex challenges with cutting-edge solutions. With Advanced Tech, your expertise fuels technological advancement.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/19.jpg",
   },
   {
@@ -196,7 +196,7 @@ const companies = [
     type: "Full-time",
     salary: "50-80k",
     datePosted: "2022-04-11",
-    description: `We use cookies to improve our services.`,
+    description: `Tech Innovations pioneers next-generation solutions. Join our team in Narnia as a Junior Developer and contribute to innovative projects that shape the future. With Tech Innovations, your creativity drives digital transformation.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/20.jpg",
   },
   {
@@ -206,7 +206,7 @@ const companies = [
     type: "Full-time",
     salary: "80-120k",
     datePosted: "2022-03-01",
-    description: `Cookies help us enhance site performance.`,
+    description: `Elite Developers leads with expertise and innovation. Join our team in Brusia as a Senior Developer and lead transformative projects. With Elite Developers, your skills redefine possibilities in software development.`,
     avatarUrl: "https://randomuser.me/api/portraits/men/21.jpg",
   },
   {
@@ -216,48 +216,8 @@ const companies = [
     type: "Full-time",
     salary: "70-110k",
     datePosted: "2022-02-10",
-    description: `Our site uses cookies for a better experience.`,
+    description: `Future Projects drives visionary initiatives. Join our team in Zandria as a Project Manager and oversee projects that shape the future. With Future Projects, your leadership propels innovation and success.`,
     avatarUrl: "https://randomuser.me/api/portraits/women/22.jpg",
-  },
-  {
-    name: "Design Masters",
-    position: "UX/UI Designer",
-    location: "Atlantis",
-    type: "Full-time",
-    salary: "55-85k",
-    datePosted: "2022-08-05",
-    description: `We use cookies to provide personalized ads.`,
-    avatarUrl: "https://randomuser.me/api/portraits/women/16.jpg",
-  },
-  {
-    name: "QA Experts",
-    position: "Quality Assurance",
-    location: "Rivendell",
-    type: "Full-time",
-    salary: "50-75k",
-    datePosted: "2022-07-12",
-    description: `Cookies help us measure ad performance.`,
-    avatarUrl: "https://randomuser.me/api/portraits/men/17.jpg",
-  },
-  {
-    name: "Support Solutions",
-    position: "Technical Support",
-    location: "Gondor",
-    type: "Full-time",
-    salary: "45-70k",
-    datePosted: "2022-06-28",
-    description: `We use cookies to track site performance.`,
-    avatarUrl: "https://randomuser.me/api/portraits/women/18.jpg",
-  },
-  {
-    name: "Advanced Tech",
-    position: "Software Development level 2",
-    location: "Elantris",
-    type: "Full-time",
-    salary: "70-100k",
-    datePosted: "2022-05-22",
-    description: `Cookies help us understand user behavior.`,
-    avatarUrl: "https://randomuser.me/api/portraits/men/19.jpg",
   },
 ];
 

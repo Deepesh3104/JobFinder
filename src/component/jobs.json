@@ -1,0 +1,723 @@
+[
+  {
+    "name": "Linear Company",
+    "position": "Software Development level 1",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "60-90k",
+    "datePosted": "2023-10-28",
+    "description": "Welcome to Linear Company! We are a leading technology firm specializing in software development. Our team is dedicated to delivering innovative solutions that drive business success. Join us in Brusia and be part of our dynamic environment where your skills and ideas make a difference.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "name": "Tech Solutions",
+    "position": "Junior Developer",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-09-15",
+    "description": "Tech Solutions is committed to excellence in software development. As a Junior Developer, you will work in a collaborative environment to create impactful solutions for our clients in Zandria. Join our team and grow your career with us.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "name": "Innovatech",
+    "position": "Senior Developer",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2023-08-20",
+    "description": "At Innovatech, we push the boundaries of technology. Join our team of Senior Developers in Netherland and contribute to cutting-edge projects that shape the future. With competitive compensation and a stimulating work environment, Innovatech is where innovation meets excellence.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Future Systems",
+    "position": "Project Manager",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2023-07-05",
+    "description": "Future Systems is seeking a talented Project Manager to lead our initiatives in Arboria. As part of our team, you will oversee project lifecycles, ensuring timely delivery and client satisfaction. Join us and drive success with Future Systems.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "name": "Data Corp",
+    "position": "Data Analyst",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2023-06-12",
+    "description": "Data Corp is dedicated to data-driven insights. Join our team of Data Analysts in Quixonia and analyze complex datasets to unlock valuable business insights. With Data Corp, your analytical skills drive impactful decisions.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "name": "Net Solutions",
+    "position": "System Administrator",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2023-05-22",
+    "description": "Net Solutions is looking for a skilled System Administrator to maintain our network infrastructure in Atlantis. Join our team and ensure our systems operate efficiently to support our global operations.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "name": "Creative Minds",
+    "position": "UX/UI Designer",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2023-04-30",
+    "description": "Creative Minds values creativity and user-centric design. As a UX/UI Designer in Rivendell, you will craft intuitive interfaces that enhance user experience across digital platforms. Join our team and unleash your creative potential.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "name": "Quality Assurance Inc.",
+    "position": "Quality Assurance",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2023-04-10",
+    "description": "Quality Assurance Inc. is committed to delivering superior quality. Join our team in Gondor and ensure our products meet the highest standards of excellence through rigorous testing and quality assurance processes.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "name": "Tech Support Co.",
+    "position": "Technical Support",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2023-03-18",
+    "description": "Tech Support Co. provides essential technical assistance. As part of our team in Elantris, you will resolve customer issues and ensure smooth operation of our products and services. Join us and make a difference with Tech Support Co.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "name": "Binary Solutions",
+    "position": "Software Development level 2",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2023-02-25",
+    "description": "Binary Solutions is dedicated to advanced software development. Join our team in Narnia and work on complex projects that push technological boundaries. With Binary Solutions, your expertise drives innovation and growth.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "name": "Prime Tech",
+    "position": "Junior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-01-30",
+    "description": "Prime Tech fosters talent in software development. Join our team in Brusia as a Junior Developer and gain hands-on experience in building impactful solutions. With Prime Tech, your career journey begins with innovation and growth.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "name": "Digital Pioneers",
+    "position": "Senior Developer",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2022-12-15",
+    "description": "Digital Pioneers leads the way in software development. As a Senior Developer in Zandria, you will spearhead projects that transform industries. Join Digital Pioneers and drive innovation with cutting-edge technologies.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "name": "NextGen Systems",
+    "position": "Project Manager",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2022-11-22",
+    "description": "NextGen Systems delivers visionary projects. Join our team in Netherland as a Project Manager and oversee initiatives that redefine success. With NextGen Systems, your leadership shapes the future of technology.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "name": "Insight Analytics",
+    "position": "Data Analyst",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2022-10-10",
+    "description": "Insight Analytics transforms data into actionable insights. Join our team in Arboria as a Data Analyst and uncover strategic opportunities through data-driven analysis. With Insight Analytics, your insights drive informed decisions.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "name": "Network Solutions",
+    "position": "System Administrator",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2022-09-18",
+    "description": "Network Solutions ensures seamless operations. Join our team in Quixonia as a System Administrator and maintain robust network infrastructure. With Network Solutions, your expertise keeps us connected and secure.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "name": "Design Masters",
+    "position": "UX/UI Designer",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2022-08-05",
+    "description": "Design Masters crafts exceptional user experiences. Join our team in Atlantis as a UX/UI Designer and create intuitive interfaces that captivate users. With Design Masters, your creativity shapes digital experiences.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    "name": "QA Experts",
+    "position": "Quality Assurance",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2022-07-12",
+    "description": "QA Experts ensures superior product quality. Join our team in Rivendell and implement rigorous testing processes that uphold our commitment to excellence. With QA Experts, your attention to detail drives flawless execution.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/17.jpg"
+  },
+  {
+    "name": "Support Solutions",
+    "position": "Technical Support",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2022-06-28",
+    "description": "Support Solutions provides essential technical assistance. Join our team in Gondor and deliver prompt support to enhance user experience. With Support Solutions, your dedication keeps our services running smoothly.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "name": "Advanced Tech",
+    "position": "Software Development level 2",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2022-05-22",
+    "description": "Advanced Tech drives innovation in software development. Join our team in Elantris and tackle complex challenges with cutting-edge solutions. With Advanced Tech, your expertise fuels technological advancement.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/19.jpg"
+  },
+  {
+    "name": "Tech Innovations",
+    "position": "Junior Developer",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2022-04-11",
+    "description": "Tech Innovations pioneers next-generation solutions. Join our team in Narnia as a Junior Developer and contribute to innovative projects that shape the future. With Tech Innovations, your creativity drives digital transformation.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+  {
+    "name": "Elite Developers",
+    "position": "Senior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2022-03-01",
+    "description": "Elite Developers leads with expertise and innovation. Join our team in Brusia as a Senior Developer and lead transformative projects. With Elite Developers, your skills redefine possibilities in software development.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/21.jpg"
+  },
+  {
+    "name": "Future Projects",
+    "position": "Project Manager",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2022-02-10",
+    "description": "Future Projects drives visionary initiatives. Join our team in Zandria as a Project Manager and oversee projects that shape the future. With Future Projects, your leadership propels innovation and success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+
+  {
+    "name": "Linear Company",
+    "position": "Software Development level 1",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "60-90k",
+    "datePosted": "2023-10-28",
+    "description": "Welcome to Linear Company! We are a leading technology firm specializing in software development. Our team is dedicated to delivering innovative solutions that drive business success. Join us in Brusia and be part of our dynamic environment where your skills and ideas make a difference.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "name": "Tech Solutions",
+    "position": "Junior Developer",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-09-15",
+    "description": "Tech Solutions is committed to excellence in software development. As a Junior Developer, you will work in a collaborative environment to create impactful solutions for our clients in Zandria. Join our team and grow your career with us.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "name": "Innovatech",
+    "position": "Senior Developer",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2023-08-20",
+    "description": "At Innovatech, we push the boundaries of technology. Join our team of Senior Developers in Netherland and contribute to cutting-edge projects that shape the future. With competitive compensation and a stimulating work environment, Innovatech is where innovation meets excellence.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Future Systems",
+    "position": "Project Manager",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2023-07-05",
+    "description": "Future Systems is seeking a talented Project Manager to lead our initiatives in Arboria. As part of our team, you will oversee project lifecycles, ensuring timely delivery and client satisfaction. Join us and drive success with Future Systems.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "name": "Data Corp",
+    "position": "Data Analyst",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2023-06-12",
+    "description": "Data Corp is dedicated to data-driven insights. Join our team of Data Analysts in Quixonia and analyze complex datasets to unlock valuable business insights. With Data Corp, your analytical skills drive impactful decisions.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "name": "Net Solutions",
+    "position": "System Administrator",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2023-05-22",
+    "description": "Net Solutions is looking for a skilled System Administrator to maintain our network infrastructure in Atlantis. Join our team and ensure our systems operate efficiently to support our global operations.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "name": "Creative Minds",
+    "position": "UX/UI Designer",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2023-04-30",
+    "description": "Creative Minds values creativity and user-centric design. As a UX/UI Designer in Rivendell, you will craft intuitive interfaces that enhance user experience across digital platforms. Join our team and unleash your creative potential.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "name": "Quality Assurance Inc.",
+    "position": "Quality Assurance",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2023-04-10",
+    "description": "Quality Assurance Inc. is committed to delivering superior quality. Join our team in Gondor and ensure our products meet the highest standards of excellence through rigorous testing and quality assurance processes.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "name": "Tech Support Co.",
+    "position": "Technical Support",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2023-03-18",
+    "description": "Tech Support Co. provides essential technical assistance. As part of our team in Elantris, you will resolve customer issues and ensure smooth operation of our products and services. Join us and make a difference with Tech Support Co.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "name": "Binary Solutions",
+    "position": "Software Development level 2",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2023-02-25",
+    "description": "Binary Solutions is dedicated to advanced software development. Join our team in Narnia and work on complex projects that push technological boundaries. With Binary Solutions, your expertise drives innovation and growth.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "name": "Prime Tech",
+    "position": "Junior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-01-30",
+    "description": "Prime Tech fosters talent in software development. Join our team in Brusia as a Junior Developer and gain hands-on experience in building impactful solutions. With Prime Tech, your career journey begins with innovation and growth.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "name": "Digital Pioneers",
+    "position": "Senior Developer",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2022-12-15",
+    "description": "Digital Pioneers leads the way in software development. As a Senior Developer in Zandria, you will spearhead projects that transform industries. Join Digital Pioneers and drive innovation with cutting-edge technologies.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "name": "NextGen Systems",
+    "position": "Project Manager",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2022-11-22",
+    "description": "NextGen Systems delivers visionary projects. Join our team in Netherland as a Project Manager and oversee initiatives that redefine success. With NextGen Systems, your leadership shapes the future of technology.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "name": "Insight Analytics",
+    "position": "Data Analyst",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2022-10-10",
+    "description": "Insight Analytics transforms data into actionable insights. Join our team in Arboria as a Data Analyst and uncover strategic opportunities through data-driven analysis. With Insight Analytics, your insights drive informed decisions.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "name": "Network Solutions",
+    "position": "System Administrator",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2022-09-18",
+    "description": "Network Solutions ensures seamless operations. Join our team in Quixonia as a System Administrator and maintain robust network infrastructure. With Network Solutions, your expertise keeps us connected and secure.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "name": "Design Masters",
+    "position": "UX/UI Designer",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2022-08-05",
+    "description": "Design Masters crafts exceptional user experiences. Join our team in Atlantis as a UX/UI Designer and create intuitive interfaces that captivate users. With Design Masters, your creativity shapes digital experiences.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    "name": "QA Experts",
+    "position": "Quality Assurance",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2022-07-12",
+    "description": "QA Experts ensures superior product quality. Join our team in Rivendell and implement rigorous testing processes that uphold our commitment to excellence. With QA Experts, your attention to detail drives flawless execution.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/17.jpg"
+  },
+  {
+    "name": "Support Solutions",
+    "position": "Technical Support",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2022-06-28",
+    "description": "Support Solutions provides essential technical assistance. Join our team in Gondor and deliver prompt support to enhance user experience. With Support Solutions, your dedication keeps our services running smoothly.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "name": "Advanced Tech",
+    "position": "Software Development level 2",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2022-05-22",
+    "description": "Advanced Tech drives innovation in software development. Join our team in Elantris and tackle complex challenges with cutting-edge solutions. With Advanced Tech, your expertise fuels technological advancement.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/19.jpg"
+  },
+  {
+    "name": "Tech Innovations",
+    "position": "Junior Developer",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2022-04-11",
+    "description": "Tech Innovations pioneers next-generation solutions. Join our team in Narnia as a Junior Developer and contribute to innovative projects that shape the future. With Tech Innovations, your creativity drives digital transformation.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+  {
+    "name": "Elite Developers",
+    "position": "Senior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2022-03-01",
+    "description": "Elite Developers leads with expertise and innovation. Join our team in Brusia as a Senior Developer and lead transformative projects. With Elite Developers, your skills redefine possibilities in software development.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/21.jpg"
+  },
+  {
+    "name": "Future Projects",
+    "position": "Project Manager",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2022-02-10",
+    "description": "Future Projects drives visionary initiatives. Join our team in Zandria as a Project Manager and oversee projects that shape the future. With Future Projects, your leadership propels innovation and success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "name": "Dynamic Solutions",
+    "position": "Software Development level 1",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "60-90k",
+    "datePosted": "2023-01-22",
+    "description": "Dynamic Solutions is at the forefront of technology. Join our team in Atlantis and contribute to cutting-edge software development projects. With Dynamic Solutions, your skills drive innovation and success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+    "name": "Pioneer Tech",
+    "position": "Junior Developer",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-02-15",
+    "description": "Pioneer Tech is dedicated to nurturing talent. Join our team in Netherland as a Junior Developer and work on projects that make a difference. With Pioneer Tech, your career takes off in a collaborative environment.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/24.jpg"
+  },
+  {
+    "name": "Visionary Tech",
+    "position": "Senior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2023-03-25",
+    "description": "Visionary Tech leads with innovation. Join our team in Brusia as a Senior Developer and work on transformative projects that shape the future. With Visionary Tech, your expertise drives technological advancement.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
+    "name": "Project Masters",
+    "position": "Project Manager",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2023-04-20",
+    "description": "Project Masters delivers excellence in project management. Join our team in Elantris and lead initiatives that drive success. With Project Masters, your leadership makes a significant impact.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/26.jpg"
+  },
+  {
+    "name": "Insightful Analytics",
+    "position": "Data Analyst",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2023-05-10",
+    "description": "Insightful Analytics turns data into insights. Join our team in Zandria as a Data Analyst and help our clients make informed decisions. With Insightful Analytics, your analytical skills drive business success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/27.jpg"
+  },
+  {
+    "name": "Reliable Systems",
+    "position": "System Administrator",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2023-06-18",
+    "description": "Reliable Systems ensures operational excellence. Join our team in Gondor as a System Administrator and maintain our robust network infrastructure. With Reliable Systems, your expertise keeps us running smoothly.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/28.jpg"
+  },
+  {
+    "name": "Creative Designs",
+    "position": "UX/UI Designer",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2023-07-30",
+    "description": "Creative Designs values user-centric solutions. Join our team in Quixonia as a UX/UI Designer and craft engaging user experiences. With Creative Designs, your creativity shapes our digital presence.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/29.jpg"
+  },
+  {
+    "name": "Quality Control Inc.",
+    "position": "Quality Assurance",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2023-08-12",
+    "description": "Quality Control Inc. is dedicated to product excellence. Join our team in Rivendell and ensure our products meet the highest standards through rigorous testing. With Quality Control Inc., your attention to detail drives quality.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/30.jpg"
+  },
+  {
+    "name": "Tech Help Co.",
+    "position": "Technical Support",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2023-09-05",
+    "description": "Tech Help Co. provides essential technical support. Join our team in Atlantis and help our customers with their technical issues. With Tech Help Co., your dedication ensures smooth operations.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/31.jpg"
+  },
+  {
+    "name": "Binary Innovations",
+    "position": "Software Development level 2",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2023-10-22",
+    "description": "Binary Innovations drives technological advancement. Join our team in Arboria as a Software Developer and work on cutting-edge projects. With Binary Innovations, your expertise pushes boundaries.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+    "name": "Prime Developers",
+    "position": "Junior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-11-15",
+    "description": "Prime Developers nurtures emerging talent. Join our team in Brusia as a Junior Developer and work on impactful projects. With Prime Developers, your career starts with innovation.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  {
+    "name": "NextGen Tech",
+    "position": "Senior Developer",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2023-12-10",
+    "description": "NextGen Tech leads with expertise. Join our team in Narnia as a Senior Developer and drive projects that shape the future. With NextGen Tech, your skills redefine possibilities in technology.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/34.jpg"
+  },
+  {
+    "name": "Project Visionaries",
+    "position": "Project Manager",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2024-01-20",
+    "description": "Project Visionaries delivers success through leadership. Join our team in Netherland as a Project Manager and lead initiatives that drive innovation. With Project Visionaries, your leadership shapes our future.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/35.jpg"
+  },
+  {
+    "name": "Data Insights",
+    "position": "Data Analyst",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2024-02-15",
+    "description": "Data Insights transforms information into actionable strategies. Join our team in Elantris as a Data Analyst and help our clients make informed decisions. With Data Insights, your skills drive success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/36.jpg"
+  },
+  {
+    "name": "System Masters",
+    "position": "System Administrator",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2024-03-22",
+    "description": "System Masters ensures operational excellence. Join our team in Zandria as a System Administrator and maintain our network infrastructure. With System Masters, your expertise keeps us running smoothly.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/37.jpg"
+  },
+  {
+    "name": "Design Pioneers",
+    "position": "UX/UI Designer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2024-04-18",
+    "description": "Design Pioneers values user-centric solutions. Join our team in Brusia as a UX/UI Designer and craft engaging user experiences. With Design Pioneers, your creativity shapes our digital presence.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/38.jpg"
+  },
+  {
+    "name": "Quality Solutions",
+    "position": "Quality Assurance",
+    "location": "Narnia",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2024-05-12",
+    "description": "Quality Solutions is dedicated to product excellence. Join our team in Narnia and ensure our products meet the highest standards through rigorous testing. With Quality Solutions, your attention to detail drives quality.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/39.jpg"
+  },
+  {
+    "name": "Support Tech",
+    "position": "Technical Support",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2024-06-18",
+    "description": "Support Tech provides essential technical support. Join our team in Netherland and help our customers with their technical issues. With Support Tech, your dedication ensures smooth operations.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/40.jpg"
+  },
+  {
+    "name": "Tech Solutions",
+    "position": "Software Development level 1",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "60-90k",
+    "datePosted": "2023-01-28",
+    "description": "Tech Solutions is at the forefront of technology. Join our team in Atlantis and contribute to cutting-edge software development projects. With Tech Solutions, your skills drive innovation and success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/41.jpg"
+  },
+  {
+    "name": "Pioneer Development",
+    "position": "Junior Developer",
+    "location": "Netherland",
+    "type": "Full-time",
+    "salary": "50-80k",
+    "datePosted": "2023-02-18",
+    "description": "Pioneer Development is dedicated to nurturing talent. Join our team in Netherland as a Junior Developer and work on projects that make a difference. With Pioneer Development, your career takes off in a collaborative environment.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/42.jpg"
+  },
+  {
+    "name": "Innovative Tech",
+    "position": "Senior Developer",
+    "location": "Brusia",
+    "type": "Full-time",
+    "salary": "80-120k",
+    "datePosted": "2023-03-25",
+    "description": "Innovative Tech leads with innovation. Join our team in Brusia as a Senior Developer and work on transformative projects that shape the future. With Innovative Tech, your expertise drives technological advancement.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/43.jpg"
+  },
+  {
+    "name": "Project Experts",
+    "position": "Project Manager",
+    "location": "Elantris",
+    "type": "Full-time",
+    "salary": "70-110k",
+    "datePosted": "2023-04-30",
+    "description": "Project Experts delivers excellence in project management. Join our team in Elantris and lead initiatives that drive success. With Project Experts, your leadership makes a significant impact.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "name": "Data Analysis Inc.",
+    "position": "Data Analyst",
+    "location": "Zandria",
+    "type": "Full-time",
+    "salary": "65-95k",
+    "datePosted": "2023-05-28",
+    "description": "Data Analysis Inc. turns data into insights. Join our team in Zandria as a Data Analyst and help our clients make informed decisions. With Data Analysis Inc., your analytical skills drive business success.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "name": "System Solutions",
+    "position": "System Administrator",
+    "location": "Gondor",
+    "type": "Full-time",
+    "salary": "60-100k",
+    "datePosted": "2023-06-22",
+    "description": "System Solutions ensures operational excellence. Join our team in Gondor as a System Administrator and maintain our robust network infrastructure. With System Solutions, your expertise keeps us running smoothly.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/46.jpg"
+  },
+  {
+    "name": "Creative UI",
+    "position": "UX/UI Designer",
+    "location": "Quixonia",
+    "type": "Full-time",
+    "salary": "55-85k",
+    "datePosted": "2023-07-12",
+    "description": "Creative UI values user-centric solutions. Join our team in Quixonia as a UX/UI Designer and craft engaging user experiences. With Creative UI, your creativity shapes our digital presence.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/47.jpg"
+  },
+  {
+    "name": "Quality Inc.",
+    "position": "Quality Assurance",
+    "location": "Rivendell",
+    "type": "Full-time",
+    "salary": "50-75k",
+    "datePosted": "2023-08-20",
+    "description": "Quality Inc. is dedicated to product excellence. Join our team in Rivendell and ensure our products meet the highest standards through rigorous testing. With Quality Inc., your attention to detail drives quality.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/48.jpg"
+  },
+  {
+    "name": "Support Masters",
+    "position": "Technical Support",
+    "location": "Atlantis",
+    "type": "Full-time",
+    "salary": "45-70k",
+    "datePosted": "2023-09-10",
+    "description": "Support Masters provides essential technical support. Join our team in Atlantis and help our customers with their technical issues. With Support Masters, your dedication ensures smooth operations.",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/49.jpg"
+  },
+  {
+    "name": "Advanced Innovations",
+    "position": "Software Development level 2",
+    "location": "Arboria",
+    "type": "Full-time",
+    "salary": "70-100k",
+    "datePosted": "2023-10-30",
+    "description": "Advanced Innovations drives technological advancement. Join our team in Arboria as a Software Developer and work on cutting-edge projects. With Advanced Innovations, your expertise pushes boundaries.",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+  }
+]

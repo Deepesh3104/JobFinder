@@ -5,15 +5,23 @@ const Navbar = () => {
     <>
       <nav className="flex justify-between w-[80%] mx-auto py-6">
         <div className="text-xl font-bold">
-          <h1 className="self-center text-2xl font-semibold whitespace-nowrap dark:text-">
+          <h1 className="self-center text-2xl font-semibold whitespace-nowrap font-dm-sans dark:text-">
             JobDekho
           </h1>
         </div>
         <div className="flex space-x-8">
-          <h1 className="hover:text-gray-400 cursor-pointer">Start Search</h1>
-          <h1 className="hover:text-gray-400 cursor-pointer">My jobs</h1>
-          <h1 className="hover:text-gray-400 cursor-pointer">Salary</h1>
-          <h1 className="hover:text-gray-400 cursor-pointer">Post A job</h1>
+          <h1 className="hover:text-gray-400 cursor-pointer font-dm-sans">
+            Start Search
+          </h1>
+          <h1 className="hover:text-gray-400 cursor-pointer font-dm-sans">
+            My jobs
+          </h1>
+          <h1 className="hover:text-gray-400 cursor-pointer font-dm-sans">
+            Salary
+          </h1>
+          <h1 className="hover:text-gray-400 cursor-pointer font-dm-sans">
+            Post A job
+          </h1>
         </div>
         <div className="flex items-center space-x-4">
           <img
