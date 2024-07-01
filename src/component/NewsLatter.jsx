@@ -11,7 +11,7 @@ const NewsLatter = () => {
     setEmail("");
   };
   return (
-    <div className="w-[30%] mr-6 ">
+    <div className="w-[30%] mr-8 ">
       <div className="  shadow-sm bg-white rounded-md">
         <div className="flex items-center gap-1 ">
           <MdMarkEmailRead className="ml-4 mt-4" />
@@ -49,7 +49,7 @@ const NewsLatter = () => {
           goals efficiently.
         </h1>
         <div className="p-4">
-          <input type="file" />
+          <input type="file" className="mr-4" />
           <button className="bg-blue-600 text-center w-full p-3 rounded-md mt-4 text-white font-semibold">
             Upload Your resume
           </button>
