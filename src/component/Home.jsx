@@ -11,7 +11,7 @@ const Home = () => {
   useEffect(() => {
     const fetchJobs = async () => {
       try {
-        const response = await axios.get("./src/component/jobs.json");
+        const response = await axios.get("../../public/jobs.json");
         setJobs(response.data);
         console.log("Fetched data ", response.data);
       } catch (error) {
