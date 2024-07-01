@@ -5,7 +5,7 @@ import NewsLatter from "./NewsLatter";
 
 const JobModules = ({ jobtitle, jobs, filteredJobs }) => {
   return (
-    <div className="bg-gray-100 w-[90%] rounded-md mx-auto flex px-10 py-10 mt-16 space-x-4">
+    <div className="bg-gray-100 w-[80%] rounded-md mx-auto flex px-12 py-12 mt-16 space-x-10">
       <Filter />
       <Job jobs={jobs} jobtitle={jobtitle} filteredJobs={filteredJobs} />
       <NewsLatter />
