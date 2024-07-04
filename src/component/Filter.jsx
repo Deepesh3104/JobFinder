@@ -1,13 +1,13 @@
 import Place from "./Place.modules";
 import Salary from "./Salary.modules";
 // import { useState } from "react";
-const Filter = () => {
+const Filter = ({ filteredJobs }) => {
   // const [filter, setFilter] = useState;
   return (
     <div className="w-[30%] ">
       <div className="  shadow-sm bg-white rounded-md p-4">
         <div className=" font-dm-sans font-bold">Filter</div>
-        <Place />
+        <Place filteredJobs={filteredJobs} />
         <Salary />
       </div>
     </div>

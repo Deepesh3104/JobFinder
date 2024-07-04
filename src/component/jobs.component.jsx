@@ -7,7 +7,13 @@ import { CiCalendarDate } from "react-icons/ci";
 import Skeleton from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
 
-const Jobcomponents = ({ page, Jobperpage, filteredJobs, isLoading }) => {
+const Jobcomponents = ({
+  page,
+  Jobperpage,
+  filteredJobs,
+  isLoading,
+  
+}) => {
   const indexLastjob = page * Jobperpage;
   const indexFirstjob = indexLastjob - Jobperpage;
   const currenJob = filteredJobs.slice(indexFirstjob, indexLastjob);

@@ -54,7 +54,7 @@ const Navbar = ({ isLoading }) => {
                 className="w-8 h-8 rounded-full"
               />
               <div className="hover:text-gray-400 cursor-pointer bg-blue-600 px-2 py-1 text-white rounded-lg shadow-md w-20 text-center font-semibold">
-                Logout
+                Signup
               </div>
             </>
           )}
