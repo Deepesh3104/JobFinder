@@ -1,16 +1,31 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-const Place = ({ filteredJobs }) => {
-  const [searchh, setSearch] = useState("");
+const Place = ({ filteredJobs, setLocation }) => {
+  const [searchh, setSearch] = useState(""); // State for search input
+  const [selectedLocation, setSelectedLocation] = useState(""); // State for selected location
 
+  // Function to handle search input change
   const handleSearch = (e) => {
-    setSearch(e.target.value);
+    setSearch(e.target.value); // Update search input state
   };
-  const displayLoc = filteredJobs.slice(0, 6);
+
+  // Function to handle location checkbox change
+  const handleLocationChange = (location) => {
+    if (selectedLocation === location) {
+      setSelectedLocation(""); // Toggle off if already selected
+      setLocation(""); // Notify parent component about location change
+      setSearch("");
+    } else {
+      setSelectedLocation(location); // Update selected location state
+      setLocation(location); // Notify parent component about location change
+    }
+  };
+
+  // Remove duplicate locations
   const uniqueLocations = Array.from(
-    new Set(displayLoc.map((job) => job.location.toLowerCase()))
+    new Set(filteredJobs.map((job) => job.location.toLowerCase()))
   ).map((location) => {
-    return displayLoc.find((job) => job.location.toLowerCase() === location);
+    return filteredJobs.find((job) => job.location.toLowerCase() === location);
   });
 
   return (
@@ -22,10 +37,15 @@ const Place = ({ filteredJobs }) => {
         placeholder="Enter a Place"
         value={searchh}
       />
-      <label className="flex mt-4 gap-2 text-sm">
-        <input type="checkbox" className="mr-2 rounded-full" />
+      {/* <label className="flex mt-4 gap-2 text-sm">
+        <input
+          type="checkbox"
+          className="mr-2 rounded-full"
+          checked={selectedLocation === location.location}
+          onChange={() => handleLocationChange("")}
+        />
         <h1 className="font-dm-sans">All</h1>
-      </label>
+      </label> */}
       {uniqueLocations
         .filter((loc) => {
           return loc.location.toLowerCase().includes(searchh.toLowerCase());
@@ -35,6 +55,8 @@ const Place = ({ filteredJobs }) => {
             <input
               type="checkbox"
               className="mr-2 rounded-full cursor-pointer"
+              checked={selectedLocation === location.location}
+              onChange={() => handleLocationChange(location.location)}
             />
             <h1 className="font-dm-sans text-sm cursor-pointer">
               {location.location}

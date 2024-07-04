@@ -32,18 +32,30 @@ const Home = () => {
 
   // Search-based filtering
   const filteredJobs = jobs.filter((job) => {
-    return job.position.toLowerCase().includes(jobtitle.toLowerCase());
+    const matchesTitle = job.position
+      .toLowerCase()
+      .includes(jobtitle.toLowerCase());
+    const matchesLocation = location
+      ? job.location.toLowerCase() === location.toLowerCase()
+      : true;
+
+    return matchesTitle && matchesLocation;
   });
 
   return (
     <>
       <Navbar isLoading={isLoading} />
-      <Location handleJob={handleJob} isLoading={isLoading} />
+      <Location
+        handleJob={handleJob}
+        isLoading={isLoading}
+        setLocation={setLocation}
+      />
       <JobModules
         jobs={jobs}
         jobtitle={jobtitle}
         filteredJobs={filteredJobs}
         isLoading={isLoading}
+        setLocation={setLocation}
       />
     </>
   );

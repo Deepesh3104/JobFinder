@@ -56,6 +56,7 @@ const Location = ({ handleJob, isLoading }) => {
                 />
               </span>
               <input
+                onChange={onSearch}
                 className="w-full pl-10 shadow-md p-2 rounded-lg outline-none"
                 placeholder="Enter a job location"
               />
