@@ -1,7 +1,7 @@
 const Salary = () => {
   return (
     <div>
-      <h1 className="font-dm-sans font-semibold mt-3">Salary</h1>
+      <h1 className="font-dm-sans font-semibold mt-5">Salary</h1>
       <div className="flex mt-4 gap-2 justify-between ">
         <h1 className="border border-gray-200 p-2 font-dm-sans hover:bg-blue-600 hover:text-white cursor-pointer">
           Hourly

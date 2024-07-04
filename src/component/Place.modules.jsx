@@ -28,12 +28,14 @@ const Place = ({ filteredJobs, setLocation }) => {
     return filteredJobs.find((job) => job.location.toLowerCase() === location);
   });
 
+  const locationSlicing = uniqueLocations.slice(0, 6);
+
   return (
     <div>
       <h1 className="font-dm-sans font-semibold mt-3">Locations</h1>
       <input
         onChange={handleSearch}
-        className="font-dm-sans p-2 mt-2 border border-gray-200 cursor-pointer"
+        className="font-dm-sans p-2 mt-2 border border-gray-200 cursor-pointer mb-2"
         placeholder="Enter a Place"
         value={searchh}
       />
@@ -46,12 +48,12 @@ const Place = ({ filteredJobs, setLocation }) => {
         />
         <h1 className="font-dm-sans">All</h1>
       </label> */}
-      {uniqueLocations
+      {locationSlicing
         .filter((loc) => {
           return loc.location.toLowerCase().includes(searchh.toLowerCase());
         })
         .map((location, index) => (
-          <label key={index} className="flex mt-2 gap-2">
+          <label key={index} className="flex mt-2 gap-2 ">
             <input
               type="checkbox"
               className="mr-2 rounded-full cursor-pointer"
